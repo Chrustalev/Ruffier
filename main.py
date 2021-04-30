@@ -1,7 +1,6 @@
 # Создание и запуск приложения, программирование интерфейса экранов и действий на них
 
-# готовый ThirsScr
-
+#Hello world
 from kivy.app import App
 from kivy.uix.button import Button
 from kivy.uix.label import Label
